@@ -1,0 +1,38 @@
+
+.container
+{
+	
+	margin: 0 auto;
+	position: absolute;
+	top:100px;
+	left:120px;
+	overflow: hidden;
+}
+
+.container span
+{
+	
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	position: absolute;
+}
+
+.container ul, .container li
+{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.container li
+{
+	display: none;
+}
+
+.container li.active
+{
+	display: inline;
+}
+    
+ 

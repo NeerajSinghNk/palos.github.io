@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+/*
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+.body{  
+
+  color:#555;
+  font-family:'Roboto';
+  font-weight:300;
+  font-size:34px;
+ overflow:hidden;
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
+  -webkit-transform: translate3d(0,0,0);
+}
+.marque{
+	width:50%;
+	animation:0.1s;
+	
+}
+
+.logooo {
+  display:inline-block;
+  overflow:hidden;
+  white-space:nowrap;
+  position:absloute;
+  left:2px;
+  top:30%;
+  
+}
+
+}
+.logooo:first-of-type {    /* For increasing performance 
+                       ID/Class should've been used. 
+                       For a small demo 
+                       it's okaish for now */
+
+}
+
+.logooo:last-of-type {
+ 
+  animation: reveal 2s infinite;
+}
+
+.logooo:last-of-type span {
+
+  animation: showup 4s infinite;
+}
+
+@keyframes showup {
+    0% {opacity:0;}
+    20% {opacity:1;}
+    80% {opacity:1;}
+    100% {opacity:0;}
+}
+
+@keyframes slidein {
+    0% { margin-left:-800px; }
+    20% { margin-left:-800px; }
+    35% { margin-left:0px; }
+    100% { margin-left:0px; }
+}
+
+@keyframes reveal {
+    0% {opacity:0;width:0px;}
+    20% {opacity:1;width:0px;}
+    30% {width:355px;}
+    80% {opacity:1;}
+    100% {opacity:0;width:355px;}
+}
+*/
+
+
+
+
+
+
+
+
+

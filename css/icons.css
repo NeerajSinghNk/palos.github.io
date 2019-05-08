@@ -1,0 +1,196 @@
+
+.banner-area a{
+	text-decoration:none;
+	
+}
+.banner-area h2{
+	font-family: baloo;
+	font-weight: bold;
+	position: relative;
+	top: 14px;
+	text-align: center;
+	
+}
+.btn-area{
+	background-color: #10b0ee;
+	width: 300px;
+	height: 60px;
+	border: 2px solid black;
+	border-radius: 30px;
+	position: fixed;
+	right:-230px;
+	
+	transition: .8s ease;
+	box-shadow: 4px 5px 10px #000;
+}
+
+.btn-area:hover{
+	background-color:#262626;
+	right:-50px;
+	width:300px;
+	border:none;
+	color:#fff;
+	border-radius:0;
+}
+#nav1{
+	top:160px;
+}
+
+#nav2{
+	top:230px;
+}
+
+#nav3{
+	top:300px;
+}
+#nav4{
+	top:370px;
+}
+#nav5{
+	top:440px;
+}
+#nav6{
+	top:510px;
+}
+.btn-area h2 i{
+	position:absolute;
+	left:25px;
+	color:#fff;
+	font-size:30px ;
+	padding-top:2px;
+}
+
+
+
+/*
+.normal{
+	font-weight:bold, italic;
+	font-size:30px;
+	position:absolute;
+	left:40%;
+
+}
+.normal1{
+	font-weight:bold, italic;
+	width:800px;
+	font-size:30px;
+	position:absolute;
+	left:38%;
+}
+
+.books input{
+	position:absolute;
+	left:16%;
+	top:200px;
+	height:30px;
+	 border: 1px solid rgb(143, 103, 75);
+    border-radius: 10px;
+    background: rgb(143, 103, 75);
+    padding: 10px 10px;
+   
+    text-decoration: none;
+    color: #FDB583;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    transition: 0.6s ease-in;
+	}
+	
+.books input  :hover {
+    border:2px solid rgb(143, 103, 75);
+    color: rgb(143, 103, 75);
+    background: none;
+}
+
+	
+.books1 input{
+	position:absolute;
+	left:65%;
+	top:200px;
+	height:30px;
+	 border: 1px solid rgb(143, 103, 75);
+    border-radius: 10px;
+    background: rgb(143, 103, 75);
+    padding: 10px 10px;
+   
+    text-decoration: none;
+    color: #FDB583;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    transition: 0.6s ease-in;
+	}
+	
+.books1 input  :hover {
+    border:2px solid rgb(143, 103, 75);
+    color: rgb(143, 103, 75);
+    background: none;
+}
+.books2 input{
+	position:absolute;
+	left:16%;
+	top:480px;
+	height:30px;
+	 border: 1px solid rgb(143, 103, 75);
+    border-radius: 10px;
+    background: rgb(143, 103, 75);
+    padding: 10px 10px;
+   
+    text-decoration: none;
+    color: #FDB583;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    transition: 0.6s ease-in;
+	}
+	
+.books2 input  :hover {
+    border:2px solid rgb(143, 103, 75);
+    color: rgb(143, 103, 75);
+    background: none;
+}
+
+
+.books3 input{
+	position:absolute;
+	left:63%;
+	top:480px;
+	height:30px;
+	 border: 1px solid rgb(143, 103, 75);
+    border-radius: 10px;
+    background: rgb(143, 103, 75);
+    padding: 10px 10px;
+   
+    text-decoration: none;
+    color: #FDB583;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    transition: 0.6s ease-in;
+	}
+	
+.books3 input  :hover {
+    border:2px solid rgb(143, 103, 75);
+    color: rgb(143, 103, 75);
+    background: none;
+}
+
+
+	
+#search{
+	width:300px;
+	position:absolute;
+	top:25px;
+	left:300px;
+	transform:translate(-5-%,-50%);
+	background:orange;
+	height:40px;
+	border-radius:40px;
+	padding:10px;
+}
+#button{
+	position:absolute;
+	top:25px;
+	left:300px;
+}
+*/

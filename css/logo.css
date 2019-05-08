@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=multi:300,400,700')
+
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	
+}
+
+main {
+  position: absolute;
+  right:50%;
+  display: flex;
+}
+
+h1 { margin: 6px; }
+.marker, .r, .e1, .s1, .s2, .e2 {
+  animation-timing-function: cubic-bezier(0.15,-0.01, 0.58, 1);
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  will-change: transform;
+}
+
+.marker {
+  position: absolute; top: 1rem; left: -3rem;
+  height: 10rem; width: 10px;
+  background-color: black;
+  animation-name: marker;
+}
+
+.r { margin-left: 1rem;   animation-name: r; }
+.e1 { margin-left: 1rem; animation-name: e1; }
+.s1 { margin-left: 1rem; animation-name: s1; }
+.s2 { margin-left: 1rem; animation-name: s2; }
+.e2 { margin: 3rem  rem; animation-name: e2; }
+
+@keyframes r { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(3px); }
+}
+@keyframes e1 { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(3px); }
+}
+@keyframes s1 { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(3px); }
+}
+@keyframes s2 { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(3px); }
+}
+@keyframes e2 { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(3px); }
+}
+@keyframes marker { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(3px); }
+}

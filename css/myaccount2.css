@@ -1,0 +1,46 @@
+
+.head{
+	position:absolute;
+	top:42%;
+	justify-content: space-between;
+	font-family:Colonna MT;
+	font-size:40px;
+	margin-left:30px;
+}
+
+
+.cat{
+	background-color:black;
+	width:990px;
+	display:flex;
+	justify-content: space-between;
+	font-size:24px;
+}
+.cat.box.icon{
+		
+}
+.cat .box .icon .fa{
+	font-size: 90px;
+	cursor:pointer;
+	color:orange;
+	width:40px;
+}
+
+.cat .box .icon .fas{
+	font-size: 90px;
+	cursor:pointer;
+	color:orange;
+	width:40px;
+}
+.cat .box .icon a
+{
+	position:relative;
+	top:530%;
+	right:25%;
+	text-decoration:none;
+	font-weight:800;
+	color: #660000;
+	width:300px;
+	font-size:25px;
+	
+}

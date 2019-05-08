@@ -1,0 +1,200 @@
+/*@import url('https://fonts.googleapis.com/css?family')*/
+
+.head{
+	position:absolute;
+	top:26%;
+	justify-content: space-between;
+	font-family:Colonna MT;
+	font-size:40px;
+	margin-left:30px;
+}
+
+
+.cat{
+	background-color:black;
+	width:990px;
+	display:flex;
+	justify-content: space-between;
+	font-size:20px;
+}
+.cat.box.icon{
+		
+}
+.cat .box .icon .fa{
+	font-size: 90px;
+	cursor:pointer;
+	color:orange;
+	width:300px;
+}
+
+.cat .box .icon .fas{
+	font-size: 90px;
+	cursor:pointer;
+	color:orange;
+	width:50px;
+}
+.cat .box .icon a
+{
+	position:relative;
+	top:530%;
+	right:7%;
+	text-decoration:none;
+	font-weight:800;
+	color: #660000;
+	width:20px;
+	font-size:28px;
+	
+}
+
+.cat .box .icon a p{
+}
+.headi{
+	position:absolute;
+	top:66%;
+	left:7%;
+	justify-content: space-between;
+	font-family:Colonna MT;
+	font-size:25px;
+}
+
+
+.cati{
+	width:1040px;
+	display:flex;
+	justify-content: space-between;
+}
+.cati.boxi.iconi{
+		
+}
+.cati .boxi .iconi .fa{
+	font-size: 90px;
+	position:relative;
+	bottom:20%;
+	cursor:pointer;
+	color:orange;
+	
+}
+
+.cati .boxi .iconi a
+{
+	position:absolute;
+	top:130%;
+	width:80%;
+	text-decoration:none;
+	font-weight:800;
+	color: #660000;
+	
+}
+
+.cat1 .box1 .icon1 a p{
+}
+
+.cati .boxi .iconi .fas{
+	font-size: 90px;
+	cursor:pointer;
+	color:orange;
+	width:40px;
+}
+
+.heade{
+	position:absolute;
+	top:66%;
+	justify-content: space-between;
+	font-family:Colonna MT;
+	font-size:40px;
+	margin-left:30px;
+}
+
+
+.cate{
+	width:990px;
+	display:flex;
+	justify-content: space-between;
+}
+.cate .boxe .icone .fas{
+	font-size: 90px;
+	cursor:pointer;
+	color:orange;
+	width:90px;
+}
+
+.cate .boxe .icone .fa{
+	font-size: 90px;
+	cursor:pointer;
+	color:orange;
+	width:300px;
+}
+
+
+.cate .boxe .icone a
+{
+	position:absolute;
+	top:130%;
+	width:80%;
+	text-decoration:none;
+	font-weight:800;
+	color: #660000;
+	
+}
+
+.cate .boxe .icone a p{
+}
+
+
+
+.headD{
+	position:absolute;
+	top:30%;
+	left:6%;
+	justify-content: space-between;
+	font-family:Colonna MT;
+	font-size:40px;
+}
+
+
+.catD{
+	width:990px;
+	display:flex;
+	justify-content: space-between;
+}
+.catD .boxD .iconD .fas{
+	font-size: 100px;
+	cursor:pointer;
+	color:orange;
+	
+}
+
+.catD .boxD .iconD a
+{
+	position:absolute;
+	top:130%;
+	width:50%;
+	text-decoration:none;
+	font-weight:800;
+	color: #660000;
+	
+}
+
+
+}
+
+.catD .boxD .iconD .fas{
+	font-size: 100px;
+	cursor:pointer;
+	color:orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

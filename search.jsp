@@ -260,8 +260,25 @@
 			
 				</div>	
           
-			</div>
+						<div class="shop-item">
+				<div class="content">
+				<h4>PALOS</h4>
+				<img class="shop-item-image" src="book_images//<%=image%>"><br>
+					<h3 class="section-header"><b>Title:-</b><%=tit%><br></h3>
 				
+				<h5 class="shop-item-title"><b>Book Type:-</b><%=booktype%><br></h5>
+				 <h6 class="shop-item-price"><b>Price:-<span>&#x20B9</span></b><%=Price%>/-</h6>
+				<a href="showDetail.jsp?Book_id=<%=bookid%>&Title=<%=tit%>&Price=<%=Price%>&Auther=<%=auth%>&Book_type=<%=booktype%>&Book_image=<%=image%>&Description=<%=Description%>">Buy Now</a>	
+					<p>
+					this has been changed
+					</p>
+				</div>	
+				
+				
+			</div>
+			
+			
+			
 				
 		<%		
 			count++;

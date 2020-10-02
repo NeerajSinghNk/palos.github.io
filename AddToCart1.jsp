@@ -9,7 +9,8 @@
 		{
 			BookPrice,
 			BookId,
-			BookImage
+			BookImage,
+			bookCart
 			
 		}
 	
